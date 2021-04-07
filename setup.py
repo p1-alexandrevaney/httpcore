@@ -39,7 +39,7 @@ setup(
     name="httpcore",
     python_requires=">=3.6",
     version=get_version("httpcore"),
-    url="https://github.com/encode/httpcore",
+    url="git@github.com:p1-alexandrevaney/httpcore@feature/enforce_http2.git",
     project_urls={
         "Documentation": "https://www.encode.io/httpcore",
         "Source": "https://github.com/encode/httpcore",
